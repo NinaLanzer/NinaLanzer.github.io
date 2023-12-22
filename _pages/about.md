@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Germany. nina.lanzer@posteo.de. Tel: +49 xxxx xxxx, 
+
 
 profile:
   align: right

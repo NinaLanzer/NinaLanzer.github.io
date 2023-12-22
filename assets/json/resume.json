@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nina K. Lanzer",
+    "label": "Law professional",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "nina.lanzer@posteo.de",
+    "phone": "XX-XX",
+    "url": "https://ninalanzer.github.io/",
+    "summary": "A German-born law professional with focus on environmental law ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",

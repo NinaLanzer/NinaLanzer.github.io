@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Germany. nina.lanzer@posteo.de. Tel: +49 xxxx xxxx, 
+subtitle: <a href='#'>Affiliations</a>. Germany. nina.lanzer@posteo.de. Tel: +49 xxxx xxxx.
 
 
 profile:

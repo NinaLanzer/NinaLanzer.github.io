@@ -1,17 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Nina Katrin Lanzer
+    - name: Name
+      value: Dr. jur. Nina Katrin Lanzer
     - name: Date of Birth
       value: 10.01.1989
-    - name: Languages
+    - name: Sprachen
       value: English, German, French, Latin
 
-- title: Education
+- title: Ausbildung
   type: time_table
   contents:
-    - title: Dr. jur.
+    - title: Promotionsarbeit
       institution: UFZ Helmholtz für Umweltforschung
       year: 2022
       description:
@@ -52,12 +52,16 @@
       description: 
         - bei Prof. Dr. D. Klesczewski 
 
-- title: Open Source Projects
+- title: Science Communication Projekte
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://www.youtube.com/@rechtoderschlecht">Recht oder Schlecht</a>
+      year: 2019 - now
+      description: Juristisches Know-how
+    - title: Science Slam
+      year: 2016 - now
+      description: Erst kommt das Fressen, dann die Moral!
+
 
 - title: Honors and Awards
   type: time_table
@@ -85,4 +89,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Literatur, Wandern, Handwerken

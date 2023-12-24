@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>
+subtitle: <a href='#'>Affiliations</a> Environmental Law and Science Communication
 
 
 profile:
@@ -20,4 +20,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome, my name is Nina Lanzer. This page provides an overview over my professional activities. 
+Welcome! My name is Nina Lanzer and this page provides an overview over my professional activities. 
